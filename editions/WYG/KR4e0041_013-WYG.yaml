@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4e0041/WYG/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 眉菴集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:29:12.888168'
+  source:
+    repository: kanripo
+    path: KR4e0041/KR4e0041_013.txt
+hash: sha256:d0c7b51244e4c5ba1d8421a71b81f36fadc0c13cf0fb028dca929bd0d805389a
