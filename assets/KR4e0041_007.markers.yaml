@@ -29,6 +29,7 @@ markers:
   - {type: line-break, offset: 10, content: '', id: KR4e0041_SBCK_007-1a03}
   - {type: indent, offset: 10, content: 　　　, id: KR4e0041_krp_007-bkkind8}
   - {type: punctuation, offset: 14, content: (, id: KR4e0041_krp_007-bkkpn1}
+  - {type: voice, offset: 14, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR4e0041_krp_007-bkkpn2}
   - {type: 'kr:newline', offset: 16, content: '
 
@@ -74,6 +75,7 @@ markers:
   - {type: indent, offset: 96, content: 　　　, id: KR4e0041_krp_007-bkkind9}
   - {type: punctuation, offset: 100, content: (, id: KR4e0041_krp_007-bkkpn3}
   - {type: variant, offset: 100, length: 6, content: 右二首江西作, WYG: ''}
+  - {type: voice, offset: 100, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 106, content: ), id: KR4e0041_krp_007-bkkpn4}
   - {type: 'kr:newline', offset: 106, content: '
 
@@ -684,6 +686,7 @@ markers:
   - {type: line-break, offset: 1363, content: '', id: KR4e0041_SBCK_007-4b01}
   - {type: indent, offset: 1363, content: 　　　, id: KR4e0041_krp_007-bkkind20}
   - {type: punctuation, offset: 1371, content: (, id: KR4e0041_krp_007-bkkpn5}
+  - {type: voice, offset: 1371, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1373, content: ), id: KR4e0041_krp_007-bkkpn6}
   - {type: 'kr:newline', offset: 1373, content: '
 
@@ -1151,6 +1154,7 @@ markers:
   - {type: indent, offset: 2315, content: 　　　, id: KR4e0041_krp_007-bkkind34}
   - {type: punctuation, offset: 2317, content: (, id: KR4e0041_krp_007-bkkpn7}
   - {type: variant, offset: 2317, length: 9, content: 以上在金陵并句曲作, WYG: ''}
+  - {type: voice, offset: 2317, length: 9, name: note, id: n4}
   - {type: punctuation, offset: 2326, content: ), id: KR4e0041_krp_007-bkkpn8}
   - {type: 'kr:newline', offset: 2326, content: '
 
@@ -1493,6 +1497,7 @@ markers:
   - {type: substitution, offset: 2964, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: punctuation, offset: 2966, content: (, id: KR4e0041_krp_007-bkkpn9}
   - {type: variant, offset: 2966, length: 8, content: 以上赴河南途中作, WYG: ''}
+  - {type: voice, offset: 2966, length: 8, name: note, id: n5}
   - {type: punctuation, offset: 2974, content: ), id: KR4e0041_krp_007-bkkpn10}
   - {type: 'kr:newline', offset: 2974, content: '
 
@@ -1598,6 +1603,7 @@ markers:
   - {type: page-break, offset: 3201, content: '', id: KR4e0041_WYG_007-15a, image: WYG1230/WYG1230-0408a.png}
   - {type: punctuation, offset: 3205, content: (, id: KR4e0041_krp_007-bkkpn11}
   - {type: variant, offset: 3205, length: 6, content: 以上在江西作, WYG: ''}
+  - {type: voice, offset: 3205, length: 6, name: note, id: n6}
   - {type: punctuation, offset: 3211, content: ), id: KR4e0041_krp_007-bkkpn12}
   - {type: 'kr:newline', offset: 3211, content: '
 
@@ -1873,6 +1879,7 @@ markers:
   - {type: line-break, offset: 3770, content: '', id: KR4e0041_SBCK_007-11a08}
   - {type: indent, offset: 3770, content: 　　　, id: KR4e0041_krp_007-bkkind63}
   - {type: punctuation, offset: 3773, content: (, id: KR4e0041_krp_007-bkkpn13}
+  - {type: voice, offset: 3773, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 3775, content: ), id: KR4e0041_krp_007-bkkpn14}
   - {type: 'kr:newline', offset: 3775, content: '
 
@@ -2249,6 +2256,7 @@ markers:
   - {type: indent, offset: 4513, content: 　　　, id: KR4e0041_krp_007-bkkind78}
   - {type: page-break, offset: 4513, content: '', id: KR4e0041_WYG_007-20b, image: WYG1230/WYG1230-0410d.png}
   - {type: punctuation, offset: 4515, content: (, id: KR4e0041_krp_007-bkkpn15}
+  - {type: voice, offset: 4515, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 4517, content: ), id: KR4e0041_krp_007-bkkpn16}
   - {type: 'kr:newline', offset: 4517, content: '
 
@@ -2303,6 +2311,7 @@ markers:
   - {type: line-break, offset: 4597, content: '', id: KR4e0041_SBCK_007-13b05}
   - {type: indent, offset: 4597, content: 　　　, id: KR4e0041_krp_007-bkkind79}
   - {type: punctuation, offset: 4601, content: (, id: KR4e0041_krp_007-bkkpn17}
+  - {type: voice, offset: 4601, length: 2, name: note, id: n9}
   - {type: punctuation, offset: 4603, content: ), id: KR4e0041_krp_007-bkkpn18}
   - {type: 'kr:newline', offset: 4603, content: '
 
@@ -2473,6 +2482,7 @@ markers:
   - {type: variant, offset: 4963, length: 1, content: 𥘉, WYG: 初}
   - {type: punctuation, offset: 4968, content: (, id: KR4e0041_krp_007-bkkpn19}
   - {type: variant, offset: 4968, length: 6, content: 以上使湖南作, WYG: ''}
+  - {type: voice, offset: 4968, length: 6, name: note, id: n10}
   - {type: punctuation, offset: 4974, content: ), id: KR4e0041_krp_007-bkkpn20}
   - {type: 'kr:newline', offset: 4974, content: '
 
@@ -2536,6 +2546,7 @@ markers:
   - {type: line-break, offset: 5106, content: '', id: KR4e0041_SBCK_007-14b11}
   - {type: punctuation, offset: 5106, content: (, id: KR4e0041_krp_007-bkkpn21}
   - {type: variant, offset: 5106, length: 0, content: '', WYG: 闕題}
+  - {type: voice, offset: 5106, length: 6, name: note, id: n11}
   - {type: variant, offset: 5107, length: 5, content: 上在山西作, WYG: 下俱原闕}
   - {type: punctuation, offset: 5112, content: ), id: KR4e0041_krp_007-bkkpn22}
   - {type: 'kr:newline', offset: 5112, content: '
@@ -2867,4 +2878,4 @@ markers:
 
       ', id: KR4e0041_krp_007-bkkkrnewl382}
   back: []
-hash: sha256:724500ab972c861afc6e5aae7e84dbb100b3129e12edad2afd409d9d233be45a
+hash: sha256:0c25a22bc11c07a59b9cdbae2aa7905516a6090cd2a74891b79e6fb9910cd6e9

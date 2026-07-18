@@ -870,6 +870,7 @@ markers:
   - {type: line-break, offset: 2361, content: '', id: KR4e0041_SBCK_003-7a05}
   - {type: punctuation, offset: 2365, content: (, id: KR4e0041_krp_003-bkkpn1}
   - {type: variant, offset: 2365, length: 11, content: 仕江左生長吳中遂家焉折, WYG: ''}
+  - {type: voice, offset: 2365, length: 22, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 2375, content: <, id: KR4e0041_krp_003-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 2376, content: t="33", id: KR4e0041_krp_003-bkkkrnonc2}
   - {type: punctuation, offset: 2376, content: /, id: KR4e0041_krp_003-bkkpn2}
@@ -1095,6 +1096,7 @@ markers:
   - {type: indent, offset: 2968, content: 　　　, id: KR4e0041_krp_003-bkkind60}
   - {type: punctuation, offset: 2973, content: (, id: KR4e0041_krp_003-bkkpn4}
   - {type: variant, offset: 2973, length: 3, content: 在全州, WYG: ''}
+  - {type: voice, offset: 2973, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 2976, content: ), id: KR4e0041_krp_003-bkkpn5}
   - {type: 'kr:newline', offset: 2976, content: '
 
@@ -1422,6 +1424,7 @@ markers:
   - {type: line-break, offset: 3806, content: '', id: KR4e0041_SBCK_003-10b09}
   - {type: punctuation, offset: 3808, content: (, id: KR4e0041_krp_003-bkkpn6}
   - {type: variant, offset: 3808, length: 10, content: 居在焉非西蜀之山也折, WYG: ''}
+  - {type: voice, offset: 3808, length: 20, name: note, id: n3}
   - {type: 'kr:non-cjk', offset: 3817, content: <, id: KR4e0041_krp_003-bkkkrnonc4}
   - {type: 'kr:non-cjk', offset: 3818, content: t="33", id: KR4e0041_krp_003-bkkkrnonc5}
   - {type: punctuation, offset: 3818, content: /, id: KR4e0041_krp_003-bkkpn7}
@@ -1567,6 +1570,7 @@ markers:
   - {type: variant, offset: 4212, length: 1, content: 潴, WYG: 瀦}
   - {type: variant, offset: 4217, length: 1, content: 髙, WYG: 高李迪}
   - {type: punctuation, offset: 4218, content: (, id: KR4e0041_krp_003-bkkpn9}
+  - {type: voice, offset: 4218, length: 4, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 4219, content: <, id: KR4e0041_krp_003-bkkkrnonc8}
   - {type: variant, offset: 4219, length: 3, content: 折季迪, WYG: ''}
   - {type: 'kr:non-cjk', offset: 4220, content: t="33", id: KR4e0041_krp_003-bkkkrnonc9}
@@ -1586,6 +1590,7 @@ markers:
   - {type: line-break, offset: 4255, content: '', id: KR4e0041_SBCK_003-11b09}
   - {type: variant, offset: 4256, length: 1, content: 菜, WYG: 萊幼文與余唐卿作萊}
   - {type: punctuation, offset: 4257, content: (, id: KR4e0041_krp_003-bkkpn12}
+  - {type: voice, offset: 4257, length: 16, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 4264, content: <, id: KR4e0041_krp_003-bkkkrnonc11}
   - {type: variant, offset: 4264, length: 9, content: 折㓜文與余唐卿作菜, WYG: ''}
   - {type: 'kr:non-cjk', offset: 4265, content: t="33", id: KR4e0041_krp_003-bkkkrnonc12}
@@ -1804,6 +1809,7 @@ markers:
   - {type: substitution, offset: 4827, original: 兠, replacement: 兜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17323}}
   - {type: punctuation, offset: 4831, content: (, id: KR4e0041_krp_003-bkkpn15}
   - {type: variant, offset: 4831, length: 0, content: '', WYG: 舟}
+  - {type: voice, offset: 4831, length: 3, name: note, id: n6}
   - {type: 'kr:non-cjk', offset: 4832, content: <, id: KR4e0041_krp_003-bkkkrnonc14}
   - {type: variant, offset: 4832, length: 2, content: 折舟, WYG: ''}
   - {type: 'kr:non-cjk', offset: 4833, content: t="33", id: KR4e0041_krp_003-bkkkrnonc15}
@@ -1919,4 +1925,4 @@ markers:
 
       ', id: KR4e0041_krp_003-bkkkrnewl311}
   back: []
-hash: sha256:263ae657ab5a548d08da4c41caa3144a1789e11e7ad294ab0f4d7893f29b05f4
+hash: sha256:385b61a0ab00f1d1c7249c8f59977c147584ca73648b068d595f5296e83a6fbb

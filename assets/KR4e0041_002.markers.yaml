@@ -55,6 +55,7 @@ markers:
   - {type: substitution, offset: 83, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: punctuation, offset: 85, content: (, id: KR4e0041_krp_002-bkkpn1}
   - {type: variant, offset: 85, length: 12, content: 不獨瞿塘與劍関二句為結折, WYG: ''}
+  - {type: voice, offset: 85, length: 26, name: note, id: n1}
   - {type: substitution, offset: 91, original: 関, replacement: 關, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19734}}
   - {type: 'kr:non-cjk', offset: 96, content: <, id: KR4e0041_krp_002-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 97, content: t="33", id: KR4e0041_krp_002-bkkkrnonc2}
@@ -168,6 +169,7 @@ markers:
   - {type: line-break, offset: 411, content: '', id: KR4e0041_SBCK_002-2a02}
   - {type: indent, offset: 411, content: 　　　, id: KR4e0041_krp_002-bkkind11}
   - {type: punctuation, offset: 421, content: (, id: KR4e0041_krp_002-bkkpn4}
+  - {type: voice, offset: 421, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 429, content: ), id: KR4e0041_krp_002-bkkpn5}
   - {type: 'kr:newline', offset: 429, content: '
 
@@ -782,6 +784,7 @@ markers:
   - {type: substitution, offset: 2124, original: 聴, replacement: 聽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20717}}
   - {type: punctuation, offset: 2127, content: (, id: KR4e0041_krp_002-bkkpn6}
   - {type: variant, offset: 2127, length: 6, content: 以上在吳中作, WYG: ''}
+  - {type: voice, offset: 2127, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 2133, content: ), id: KR4e0041_krp_002-bkkpn7}
   - {type: 'kr:newline', offset: 2133, content: '
 
@@ -1609,6 +1612,7 @@ markers:
   - {type: substitution, offset: 4469, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 4481, content: (, id: KR4e0041_krp_002-bkkpn8}
   - {type: variant, offset: 4481, length: 0, content: '', WYG: 鄭元祜}
+  - {type: voice, offset: 4481, length: 10, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 4484, content: <, id: KR4e0041_krp_002-bkkkrnonc4}
   - {type: variant, offset: 4484, length: 4, content: 折鄭元祐, WYG: 老}
   - {type: 'kr:non-cjk', offset: 4485, content: t="33", id: KR4e0041_krp_002-bkkkrnonc5}
@@ -1809,6 +1813,7 @@ markers:
   - {type: page-break, offset: 4989, content: '', id: KR4e0041_WYG_002-18b, image: WYG1230/WYG1230-0364b.png}
   - {type: punctuation, offset: 4994, content: (, id: KR4e0041_krp_002-bkkpn14}
   - {type: variant, offset: 4994, length: 0, content: '', WYG: 是金陵城}
+  - {type: voice, offset: 4994, length: 9, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 4998, content: <, id: KR4e0041_krp_002-bkkkrnonc10}
   - {type: variant, offset: 4998, length: 5, content: 折是金陵城, WYG: ''}
   - {type: 'kr:non-cjk', offset: 4999, content: t="33", id: KR4e0041_krp_002-bkkkrnonc11}
@@ -2365,6 +2370,7 @@ markers:
   - {type: line-break, offset: 6651, content: '', id: KR4e0041_SBCK_002-17b03}
   - {type: substitution, offset: 6655, original: 着, replacement: 著, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20044}}
   - {type: punctuation, offset: 6665, content: (, id: KR4e0041_krp_002-bkkpn17}
+  - {type: voice, offset: 6665, length: 10, name: note, id: n6}
   - {type: 'kr:non-cjk', offset: 6668, content: <, id: KR4e0041_krp_002-bkkkrnonc13}
   - {type: 'kr:non-cjk', offset: 6669, content: t="33", id: KR4e0041_krp_002-bkkkrnonc14}
   - {type: punctuation, offset: 6669, content: /, id: KR4e0041_krp_002-bkkpn18}
@@ -2412,4 +2418,4 @@ markers:
 
       ', id: KR4e0041_krp_002-bkkkrnewl407}
   back: []
-hash: sha256:707b5bf7956eabdb6c8a1441371a52b1712830ed72f01fe3e4bde43ec8554e5d
+hash: sha256:ec05f393ea52496a6ef5f09364178078d56f28bc3330deb231def8c360cabb2b

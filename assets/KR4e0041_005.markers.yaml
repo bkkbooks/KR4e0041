@@ -45,6 +45,7 @@ markers:
   - {type: line-break, offset: 57, content: '', id: KR4e0041_SBCK_005-1a06}
   - {type: punctuation, offset: 72, content: (, id: KR4e0041_krp_005-bkkpn1}
   - {type: variant, offset: 72, length: 0, content: '', WYG: 赤山在呉縣天}
+  - {type: voice, offset: 72, length: 35, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 78, content: <, id: KR4e0041_krp_005-bkkkrnonc1}
   - {type: variant, offset: 78, length: 6, content: 折赤山在呉縣, WYG: 义曰仰}
   - {type: page-break, offset: 78, content: '', id: KR4e0041_WYG_005-1b, image: WYG1230/WYG1230-0386b.png}
@@ -106,6 +107,7 @@ markers:
   - {type: substitution, offset: 192, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 194, content: (, id: KR4e0041_krp_005-bkkpn7}
   - {type: variant, offset: 194, length: 4, content: 鳯現嶺折, WYG: ''}
+  - {type: voice, offset: 194, length: 12, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 197, content: <, id: KR4e0041_krp_005-bkkkrnonc7}
   - {type: 'kr:non-cjk', offset: 198, content: t="33", id: KR4e0041_krp_005-bkkkrnonc8}
   - {type: punctuation, offset: 198, content: /, id: KR4e0041_krp_005-bkkpn8}
@@ -791,6 +793,7 @@ markers:
   - {type: page-break, offset: 1960, content: '', id: KR4e0041_WYG_005-8b, image: WYG1230/WYG1230-0389d.png}
   - {type: punctuation, offset: 1962, content: (, id: KR4e0041_krp_005-bkkpn10}
   - {type: variant, offset: 1962, length: 0, content: '', WYG: 先生年五十}
+  - {type: voice, offset: 1962, length: 11, name: note, id: n3}
   - {type: 'kr:non-cjk', offset: 1967, content: <, id: KR4e0041_krp_005-bkkkrnonc10}
   - {type: variant, offset: 1967, length: 6, content: 折先生年五十, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1968, content: t="33", id: KR4e0041_krp_005-bkkkrnonc11}
@@ -926,6 +929,7 @@ markers:
   - {type: line-break, offset: 2297, content: '', id: KR4e0041_SBCK_005-7a08}
   - {type: indent, offset: 2297, content: 　　　, id: KR4e0041_krp_005-bkkind32}
   - {type: punctuation, offset: 2305, content: (, id: KR4e0041_krp_005-bkkpn13}
+  - {type: voice, offset: 2305, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2307, content: ), id: KR4e0041_krp_005-bkkpn14}
   - {type: 'kr:newline', offset: 2307, content: '
 
@@ -1213,6 +1217,7 @@ markers:
   - {type: line-break, offset: 3054, content: '', id: KR4e0041_SBCK_005-9a05}
   - {type: punctuation, offset: 3057, content: (, id: KR4e0041_krp_005-bkkpn15}
   - {type: variant, offset: 3057, length: 0, content: '', WYG: 中原}
+  - {type: voice, offset: 3057, length: 5, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 3059, content: <, id: KR4e0041_krp_005-bkkkrnonc13}
   - {type: variant, offset: 3059, length: 3, content: 折中原, WYG: ''}
   - {type: 'kr:non-cjk', offset: 3060, content: t="33", id: KR4e0041_krp_005-bkkkrnonc14}
@@ -1563,6 +1568,7 @@ markers:
   - {type: substitution, offset: 4023, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 4031, content: (, id: KR4e0041_krp_005-bkkpn18}
   - {type: variant, offset: 4031, length: 9, content: 結句照應古君子可佳, WYG: ''}
+  - {type: voice, offset: 4031, length: 9, name: note, id: n6}
   - {type: punctuation, offset: 4040, content: ), id: KR4e0041_krp_005-bkkpn19}
   - {type: 'kr:newline', offset: 4040, content: '
 
@@ -1576,4 +1582,4 @@ markers:
 
       ', id: KR4e0041_krp_005-bkkkrnewl259}
   back: []
-hash: sha256:a3af689f7ccb3a3d21e99cef38ea61b4838b4bf53d6c67ad5a1e1fab161f1fe7
+hash: sha256:da9fdd0811e53696595adee35329641ba56f33e9b08945c1ec6760b6d569313e

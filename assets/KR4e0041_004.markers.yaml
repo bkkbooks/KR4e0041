@@ -119,6 +119,7 @@ markers:
   - {type: substitution, offset: 306, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: punctuation, offset: 311, content: (, id: KR4e0041_krp_004-bkkpn1}
   - {type: variant, offset: 311, length: 6, content: 本名透天関折, WYG: ''}
+  - {type: voice, offset: 311, length: 12, name: note, id: n1}
   - {type: substitution, offset: 315, original: 関, replacement: 關, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19734}}
   - {type: 'kr:non-cjk', offset: 316, content: <, id: KR4e0041_krp_004-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 317, content: t="33", id: KR4e0041_krp_004-bkkkrnonc2}
@@ -1492,6 +1493,7 @@ markers:
   - {type: line-break, offset: 4052, content: '', id: KR4e0041_SBCK_004-11a04}
   - {type: punctuation, offset: 4066, content: (, id: KR4e0041_krp_004-bkkpn4}
   - {type: variant, offset: 4066, length: 4, content: 邊纊也折, WYG: ''}
+  - {type: voice, offset: 4066, length: 8, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 4069, content: <, id: KR4e0041_krp_004-bkkkrnonc4}
   - {type: 'kr:non-cjk', offset: 4070, content: t="33", id: KR4e0041_krp_004-bkkkrnonc5}
   - {type: punctuation, offset: 4070, content: /, id: KR4e0041_krp_004-bkkpn5}
@@ -1925,4 +1927,4 @@ markers:
       ', id: KR4e0041_krp_004-bkkkrnewl311}
   - {type: page-break, offset: 5266, content: '', id: KR4e0041_WYG_004-19a, image: WYG1230/WYG1230-0385c.png}
   back: []
-hash: sha256:83e80ca10167bea6123b5508ac63ba76d3a11643708f6cfcdefb2cf16733f12a
+hash: sha256:0e45531c3b583e9116a5d48669e039bee5570ad338c45fd2e5aed70352689c25
